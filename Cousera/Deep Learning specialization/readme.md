@@ -3,3 +3,14 @@
 
 
 https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
+
+------
+-Week 1 Introduction
+
+-Week 2 Basics of Neural Network programming  
+
+-Week 3 One hidden layer Neural Networks
+
+-Week 4 Deep Neural Networks
+
+------
