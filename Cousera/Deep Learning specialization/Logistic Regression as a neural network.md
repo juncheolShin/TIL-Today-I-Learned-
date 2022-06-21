@@ -36,4 +36,4 @@ Loss (error) Function : $$L(y,\hat{y}) = - (y\log{}{\hat{y}} + (1-y)\log{}{(1-\h
 * Cost Function : 모든 손실함수의 평균   
 $J(W,b) = \frac{\displaystyle\sum_{i=1}^{m}L(\hat{y},y)}{m}$
 
-2022-06-21
+*2022-06-21*
