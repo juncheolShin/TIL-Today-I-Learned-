@@ -7,3 +7,5 @@ $ W := W - a\frac{\partial J(W,b)}{\partial W}$
 $ b := b - a\frac{\partial J(W,b)}{\partial b}$
 
 > $a$ = learning rate
+
+*2022-06-23*
